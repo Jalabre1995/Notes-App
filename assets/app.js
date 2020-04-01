@@ -6,20 +6,21 @@ const noteManager({
             body: 'The day went well'
         },
         {
-            title:
-            body:
+            title:'How was your day',
+            body:"The day went well"
         },
         {
-            title:
-            body:
+            title: 'How was your day',
+            body: 'The day went well'
         },
         {
-            title: 
-            body:
+            title: 'How was your day',
+            body: 'The day went well'
         },
         {
-            title:
-            body:
+            title: 'How was your day',
+            body:'The day went well'
         }
+        
     ]
 })
